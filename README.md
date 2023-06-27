@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shrmp7
 - 👀 I’m interested in programming, math and coffee
-- 🌱 I’m currently learning programming and front-end
+- 🌱 I’m currently learning algorithms and front-end
 - 💞️ feel free to ping me for collabs, I'd love to work with y'all
 - 📫 How to reach me - mailto: harrys3023@gmail.com
 
